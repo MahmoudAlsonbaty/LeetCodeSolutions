@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="200" viewBox="0 0 720 200" role="img" aria-label="7 solved: 4 Easy, 3 Medium, 0 Hard">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="200" viewBox="0 0 720 200" role="img" aria-label="8 solved: 4 Easy, 3 Medium, 1 Hard">
 <style>
 text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;white-space:pre}
 .fade{opacity:0;animation:fade .5s ease-out forwards}
@@ -6,16 +6,18 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,san
 .arc{fill:none;stroke-width:9}
 .bar{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow .9s ease-out forwards}
 @keyframes grow{to{transform:scaleX(1)}}
-@keyframes arc0{to{stroke-dasharray:218.6 389.6}}
-@keyframes arc1{to{stroke-dasharray:163.0 389.6}}
+@keyframes arc0{to{stroke-dasharray:190.8 389.6}}
+@keyframes arc1{to{stroke-dasharray:142.1 389.6}}
+@keyframes arc2{to{stroke-dasharray:44.7 389.6}}
 </style>
 <rect x=".5" y=".5" width="719" height="199" rx="12" fill="#282828" stroke="#3e3e3e"/>
 <g transform="rotate(-90 110 100)">
 <circle cx="110" cy="100" r="62" class="arc" stroke="#3e3e3e"/>
 <circle cx="110" cy="100" r="62" class="arc" stroke="#00b8a3" stroke-dasharray="0 389.6" stroke-dashoffset="-0.0" style="animation:arc0 .9s ease-out 0.00s forwards"/>
-<circle cx="110" cy="100" r="62" class="arc" stroke="#ffc01e" stroke-dasharray="0 389.6" stroke-dashoffset="-222.6" style="animation:arc1 .9s ease-out 0.25s forwards"/>
+<circle cx="110" cy="100" r="62" class="arc" stroke="#ffc01e" stroke-dasharray="0 389.6" stroke-dashoffset="-194.8" style="animation:arc1 .9s ease-out 0.25s forwards"/>
+<circle cx="110" cy="100" r="62" class="arc" stroke="#ff375f" stroke-dasharray="0 389.6" stroke-dashoffset="-340.9" style="animation:arc2 .9s ease-out 0.50s forwards"/>
 </g>
-<text x="82.8" y="104" xml:space="preserve"><tspan fill="#eff1f6" font-size="32" font-weight="600">7</tspan><tspan fill="#9a9a9a" font-size="13">/4095</tspan></text>
+<text x="82.8" y="104" xml:space="preserve"><tspan fill="#eff1f6" font-size="32" font-weight="600">8</tspan><tspan fill="#9a9a9a" font-size="13">/4095</tspan></text>
 <text x="110" y="126" text-anchor="middle" fill="#9a9a9a" font-size="12">Solved</text>
 <text x="215" y="56" fill="#00b8a3" font-size="13" font-weight="600">Easy</text>
 <text x="449.1" y="56" xml:space="preserve"><tspan fill="#eff1f6" font-size="13" font-weight="600">4</tspan><tspan fill="#9a9a9a" font-size="13">/974</tspan></text>
@@ -26,9 +28,10 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,san
 <rect x="215" y="112" width="270" height="8" rx="4" fill="#47402a"/>
 <rect x="215" y="112" width="8.0" height="8" rx="4" fill="#ffc01e" class="bar" style="animation-delay:0.15s"/>
 <text x="215" y="152" fill="#ff375f" font-size="13" font-weight="600">Hard</text>
-<text x="449.1" y="152" xml:space="preserve"><tspan fill="#eff1f6" font-size="13" font-weight="600">0</tspan><tspan fill="#9a9a9a" font-size="13">/986</tspan></text>
+<text x="449.1" y="152" xml:space="preserve"><tspan fill="#eff1f6" font-size="13" font-weight="600">1</tspan><tspan fill="#9a9a9a" font-size="13">/986</tspan></text>
 <rect x="215" y="160" width="270" height="8" rx="4" fill="#4a2c32"/>
+<rect x="215" y="160" width="8.0" height="8" rx="4" fill="#ff375f" class="bar" style="animation-delay:0.30s"/>
 <line x1="512" y1="28" x2="512" y2="172" stroke="#3e3e3e"/>
 <text x="530" y="44" fill="#eff1f6" font-size="14" font-weight="600">Languages</text>
-<g class="fade" style="animation-delay:0.30s"><rect x="530" y="66" width="39" height="22" rx="11" fill="#3e3e3e"/><text x="549.7" y="81" text-anchor="middle" fill="#eff1f6" font-size="12">C++</text><text x="645.4" y="81" xml:space="preserve"><tspan fill="#eff1f6" font-size="12" font-weight="600">7</tspan><tspan fill="#9a9a9a" font-size="12"> solved</tspan></text></g>
+<g class="fade" style="animation-delay:0.30s"><rect x="530" y="66" width="39" height="22" rx="11" fill="#3e3e3e"/><text x="549.7" y="81" text-anchor="middle" fill="#eff1f6" font-size="12">C++</text><text x="645.4" y="81" xml:space="preserve"><tspan fill="#eff1f6" font-size="12" font-weight="600">8</tspan><tspan fill="#9a9a9a" font-size="12"> solved</tspan></text></g>
 </svg>
