@@ -1,1 +1,23 @@
+# VS Code
 .vscode/
+
+# Windows executables
+*.exe
+
+# Compiled C/C++ output (macOS / Linux)
+a.out
+*.out
+*.o
+*.dSYM/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Icon?
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.DocumentRevisions-V100
