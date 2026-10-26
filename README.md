@@ -14,7 +14,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/assets/stats-dark.svg">
-  <img src="./.github/readme/assets/stats-light.svg" alt="8 problems solved" width="720">
+  <img src="./.github/readme/assets/stats-light.svg" alt="9 problems solved" width="720">
 </picture>
 </p>
 <p align="center">
@@ -34,15 +34,15 @@
 
 | | Problem | Difficulty | Pushed |
 |:-:|---|:-:|:-:|
+| ✅ | [3619. Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | $\color{#ffc01e}{\textsf{Medium}}$ | Oct 26, 2026 |
 | ✅ | [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | $\color{#00b8a3}{\textsf{Easy}}$ | Oct 26, 2026 |
 | ✅ | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | $\color{#ffc01e}{\textsf{Medium}}$ | Oct 26, 2026 |
 | ✅ | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | $\color{#ff375f}{\textsf{Hard}}$ | Oct 26, 2026 |
 | ✅ | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | $\color{#00b8a3}{\textsf{Easy}}$ | Oct 26, 2026 |
-| ✅ | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | $\color{#00b8a3}{\textsf{Easy}}$ | Oct 26, 2026 |
 
 ## Problem List
 
-<sub>8 solved &nbsp;·&nbsp; 4 Easy &nbsp;·&nbsp; 3 Medium &nbsp;·&nbsp; 1 Hard</sub>
+<sub>9 solved &nbsp;·&nbsp; 4 Easy &nbsp;·&nbsp; 4 Medium &nbsp;·&nbsp; 1 Hard</sub>
 
 | Status | Title | Acceptance | Difficulty | Solution |
 |:-:|---|:-:|:-:|:-:|
@@ -54,6 +54,7 @@
 | ✅ | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 60.8% | $\color{#ff375f}{\textsf{Hard}}$ | [C++](./Problems/P23%20-%20Merge%20k%20Sorted%20Lists%20-%20Hard) |
 | ✅ | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 64.1% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P38%20-%20Count%20and%20Say%20-%20Medium) |
 | ✅ | [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 66.9% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P2409%20-%20Count%20Days%20Spent%20Together%20-%20Easy) |
+| ✅ | [3619. Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | 58.3% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P3619%20-%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K%20-%20Medium) |
 
 ## Contests
 
