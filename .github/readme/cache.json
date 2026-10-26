@@ -1,0 +1,87 @@
+{
+  "calendar": {
+    "days": {
+      "2026-10-22": 6,
+      "2026-10-23": 5,
+      "2026-10-24": 14,
+      "2026-10-25": 4
+    },
+    "streak": 4,
+    "totalActiveDays": 4,
+    "username": "MahmoudAlsonbaty"
+  },
+  "questions": {
+    "1": {
+      "acRate": 58.1,
+      "difficulty": "Easy",
+      "slug": "two-sum",
+      "tags": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    "13": {
+      "acRate": 67.3,
+      "difficulty": "Easy",
+      "slug": "roman-to-integer",
+      "tags": [
+        "Hash Table",
+        "Math",
+        "String"
+      ]
+    },
+    "14": {
+      "acRate": 48.6,
+      "difficulty": "Easy",
+      "slug": "longest-common-prefix",
+      "tags": [
+        "Array",
+        "String",
+        "Trie"
+      ]
+    },
+    "2": {
+      "acRate": 49.6,
+      "difficulty": "Medium",
+      "slug": "add-two-numbers",
+      "tags": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ]
+    },
+    "2409": {
+      "acRate": 66.9,
+      "difficulty": "Easy",
+      "slug": "count-days-spent-together",
+      "tags": [
+        "Math",
+        "String"
+      ]
+    },
+    "3": {
+      "acRate": 40.0,
+      "difficulty": "Medium",
+      "slug": "longest-substring-without-repeating-characters",
+      "tags": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
+    },
+    "38": {
+      "acRate": 64.1,
+      "difficulty": "Medium",
+      "slug": "count-and-say",
+      "tags": [
+        "String"
+      ]
+    }
+  },
+  "totals": {
+    "All": 4095,
+    "Easy": 974,
+    "Hard": 986,
+    "Medium": 2135
+  }
+}
