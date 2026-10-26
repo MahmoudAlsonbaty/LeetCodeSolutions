@@ -5,7 +5,7 @@
       "2026-10-23": 5,
       "2026-10-24": 14,
       "2026-10-25": 4,
-      "2026-10-26": 2
+      "2026-10-26": 8
     },
     "streak": 5,
     "totalActiveDays": 5,
@@ -51,6 +51,25 @@
         "Recursion"
       ]
     },
+    "2075": {
+      "acRate": 67.7,
+      "difficulty": "Medium",
+      "slug": "decode-the-slanted-ciphertext",
+      "tags": [
+        "String",
+        "Simulation"
+      ]
+    },
+    "2279": {
+      "acRate": 68.4,
+      "difficulty": "Medium",
+      "slug": "maximum-bags-with-full-capacity-of-rocks",
+      "tags": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
+    },
     "23": {
       "acRate": 60.8,
       "difficulty": "Hard",
@@ -80,6 +99,15 @@
         "Hash Table",
         "String",
         "Sliding Window"
+      ]
+    },
+    "326": {
+      "acRate": 51.8,
+      "difficulty": "Easy",
+      "slug": "power-of-three",
+      "tags": [
+        "Math",
+        "Recursion"
       ]
     },
     "3619": {

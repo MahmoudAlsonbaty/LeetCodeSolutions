@@ -14,7 +14,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/assets/stats-dark.svg">
-  <img src="./.github/readme/assets/stats-light.svg" alt="9 problems solved" width="720">
+  <img src="./.github/readme/assets/stats-light.svg" alt="12 problems solved" width="720">
 </picture>
 </p>
 <p align="center">
@@ -34,15 +34,15 @@
 
 | | Problem | Difficulty | Pushed |
 |:-:|---|:-:|:-:|
+| ✅ | [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | $\color{#ffc01e}{\textsf{Medium}}$ | Oct 27, 2026 |
+| ✅ | [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | $\color{#ffc01e}{\textsf{Medium}}$ | Oct 27, 2026 |
+| ✅ | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | $\color{#00b8a3}{\textsf{Easy}}$ | Oct 27, 2026 |
 | ✅ | [3619. Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | $\color{#ffc01e}{\textsf{Medium}}$ | Oct 26, 2026 |
 | ✅ | [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | $\color{#00b8a3}{\textsf{Easy}}$ | Oct 26, 2026 |
-| ✅ | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | $\color{#ffc01e}{\textsf{Medium}}$ | Oct 26, 2026 |
-| ✅ | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | $\color{#ff375f}{\textsf{Hard}}$ | Oct 26, 2026 |
-| ✅ | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | $\color{#00b8a3}{\textsf{Easy}}$ | Oct 26, 2026 |
 
 ## Problem List
 
-<sub>9 solved &nbsp;·&nbsp; 4 Easy &nbsp;·&nbsp; 4 Medium &nbsp;·&nbsp; 1 Hard</sub>
+<sub>12 solved &nbsp;·&nbsp; 5 Easy &nbsp;·&nbsp; 6 Medium &nbsp;·&nbsp; 1 Hard</sub>
 
 | Status | Title | Acceptance | Difficulty | Solution |
 |:-:|---|:-:|:-:|:-:|
@@ -53,6 +53,9 @@
 | ✅ | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 48.6% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P14%20-%20Longest%20Common%20Prefix%20-%20Easy) |
 | ✅ | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 60.8% | $\color{#ff375f}{\textsf{Hard}}$ | [C++](./Problems/P23%20-%20Merge%20k%20Sorted%20Lists%20-%20Hard) |
 | ✅ | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 64.1% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P38%20-%20Count%20and%20Say%20-%20Medium) |
+| ✅ | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | 51.8% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P326%20-%20Power%20of%20Three%20-%20Easy) |
+| ✅ | [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | 67.7% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P2075%20-%20Decode%20the%20Slanted%20Ciphertext%20-%20Medium) |
+| ✅ | [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | 68.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P2279%20-%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks%20-%20Medium) |
 | ✅ | [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 66.9% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P2409%20-%20Count%20Days%20Spent%20Together%20-%20Easy) |
 | ✅ | [3619. Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | 58.3% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P3619%20-%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K%20-%20Medium) |
 
