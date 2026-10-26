@@ -4,10 +4,11 @@
       "2026-10-22": 6,
       "2026-10-23": 5,
       "2026-10-24": 14,
-      "2026-10-25": 4
+      "2026-10-25": 4,
+      "2026-10-26": 1
     },
-    "streak": 4,
-    "totalActiveDays": 4,
+    "streak": 5,
+    "totalActiveDays": 5,
     "username": "MahmoudAlsonbaty"
   },
   "questions": {
@@ -48,6 +49,18 @@
         "Linked List",
         "Math",
         "Recursion"
+      ]
+    },
+    "23": {
+      "acRate": 60.8,
+      "difficulty": "Hard",
+      "slug": "merge-k-sorted-lists",
+      "tags": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort",
+        "Tournament Sort"
       ]
     },
     "2409": {
