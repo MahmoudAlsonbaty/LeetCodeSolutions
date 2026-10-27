@@ -5,10 +5,11 @@
       "2026-10-23": 5,
       "2026-10-24": 14,
       "2026-10-25": 4,
-      "2026-10-26": 8
+      "2026-10-26": 8,
+      "2026-10-27": 2
     },
-    "streak": 5,
-    "totalActiveDays": 5,
+    "streak": 6,
+    "totalActiveDays": 6,
     "username": "MahmoudAlsonbaty"
   },
   "questions": {
@@ -128,6 +129,22 @@
       "slug": "count-and-say",
       "tags": [
         "String"
+      ]
+    },
+    "3963": {
+      "acRate": 77.3,
+      "difficulty": "Easy",
+      "slug": "create-grid-with-exactly-one-path",
+      "tags": []
+    },
+    "48": {
+      "acRate": 80.9,
+      "difficulty": "Medium",
+      "slug": "rotate-image",
+      "tags": [
+        "Array",
+        "Math",
+        "Matrix"
       ]
     }
   },
