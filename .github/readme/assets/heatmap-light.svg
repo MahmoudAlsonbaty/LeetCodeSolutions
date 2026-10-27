@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-label="31 submissions in the past year, 5 active days, max streak 5">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-label="37 submissions in the past year, 5 active days, max streak 5">
 <style>
 text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;white-space:pre}
 .fade{opacity:0;animation:fade .5s ease-out forwards}
 @keyframes fade{to{opacity:1}}
 </style>
 <rect x=".5" y=".5" width="719" height="179" rx="12" fill="#ffffff" stroke="#e5e5e5"/>
-<text x="20.0" y="34" xml:space="preserve"><tspan fill="#262626" font-size="14" font-weight="600">31</tspan><tspan fill="#8c8c8c" font-size="14"> submissions in the past year</tspan></text>
+<text x="20.0" y="34" xml:space="preserve"><tspan fill="#262626" font-size="14" font-weight="600">37</tspan><tspan fill="#8c8c8c" font-size="14"> submissions in the past year</tspan></text>
 <text x="458.8" y="34" xml:space="preserve"><tspan fill="#8c8c8c" font-size="12">Total active days: </tspan><tspan fill="#262626" font-size="12" font-weight="600">5</tspan><tspan fill="#8c8c8c" font-size="12">    Max streak: </tspan><tspan fill="#262626" font-size="12" font-weight="600">5</tspan></text>
 <rect x="18" y="54" width="10" height="10" rx="2" fill="#ebedf0" class="fade" style="animation-delay:0ms"/>
 <rect x="18" y="67" width="10" height="10" rx="2" fill="#ebedf0" class="fade" style="animation-delay:0ms"/>
@@ -384,5 +384,6 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,san
 <rect x="681" y="119" width="10" height="10" rx="2" fill="#40c463" class="fade" style="animation-delay:612ms"/>
 <rect x="681" y="132" width="10" height="10" rx="2" fill="#216e39" class="fade" style="animation-delay:612ms"/>
 <rect x="694" y="54" width="10" height="10" rx="2" fill="#40c463" class="fade" style="animation-delay:624ms"/>
-<rect x="694" y="67" width="10" height="10" rx="2" fill="#9be9a8" class="fade" style="animation-delay:624ms"/>
+<rect x="694" y="67" width="10" height="10" rx="2" fill="#30a14e" class="fade" style="animation-delay:624ms"/>
+<rect x="694" y="80" width="10" height="10" rx="2" fill="#ebedf0" class="fade" style="animation-delay:624ms"/>
 </svg>
