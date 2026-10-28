@@ -14,7 +14,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/assets/stats-dark.svg">
-  <img src="./.github/readme/assets/stats-light.svg" alt="14 problems solved" width="720">
+  <img src="./.github/readme/assets/stats-light.svg" alt="16 problems solved" width="720">
 </picture>
 </p>
 <p align="center">
@@ -34,15 +34,15 @@
 
 | | Problem | Difficulty | Pushed |
 |:-:|---|:-:|:-:|
+| ✅ | [3882. Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | $\color{#ffc01e}{\textsf{Medium}}$ | Oct 28, 2026 |
+| ✅ | [520. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | $\color{#ffc01e}{\textsf{Medium}}$ | Oct 28, 2026 |
 | ✅ | [3963. Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | $\color{#00b8a3}{\textsf{Easy}}$ | Oct 27, 2026 |
 | ✅ | [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | $\color{#ffc01e}{\textsf{Medium}}$ | Oct 27, 2026 |
 | ✅ | [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | $\color{#ffc01e}{\textsf{Medium}}$ | Oct 27, 2026 |
-| ✅ | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | $\color{#00b8a3}{\textsf{Easy}}$ | Oct 27, 2026 |
-| ✅ | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | $\color{#ffc01e}{\textsf{Medium}}$ | Oct 27, 2026 |
 
 ## Problem List
 
-<sub>14 solved &nbsp;·&nbsp; 6 Easy &nbsp;·&nbsp; 7 Medium &nbsp;·&nbsp; 1 Hard</sub>
+<sub>16 solved &nbsp;·&nbsp; 6 Easy &nbsp;·&nbsp; 9 Medium &nbsp;·&nbsp; 1 Hard</sub>
 
 | Status | Title | Acceptance | Difficulty | Solution |
 |:-:|---|:-:|:-:|:-:|
@@ -55,10 +55,12 @@
 | ✅ | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 64.1% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P38%20-%20Count%20and%20Say%20-%20Medium) |
 | ✅ | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 80.9% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P48%20-%20Rotate%20Image%20-%20Medium) |
 | ✅ | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | 51.8% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P326%20-%20Power%20of%20Three%20-%20Easy) |
+| ✅ | [520. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | - | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P520%20-%20Subarray%20Sum%20Equals%20K%20-%20Medium) |
 | ✅ | [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | 67.7% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P2075%20-%20Decode%20the%20Slanted%20Ciphertext%20-%20Medium) |
 | ✅ | [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | 68.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P2279%20-%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks%20-%20Medium) |
 | ✅ | [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 66.9% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P2409%20-%20Count%20Days%20Spent%20Together%20-%20Easy) |
 | ✅ | [3619. Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | 58.3% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P3619%20-%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K%20-%20Medium) |
+| ✅ | [3882. Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | 56.8% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P3882%20-%20Minimum%20XOR%20Path%20in%20a%20Grid%20-%20Medium) |
 | ✅ | [3963. Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | 77.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P3963%20-%20Create%20Grid%20With%20Exactly%20One%20Path%20-%20Easy) |
 
 ## Contests

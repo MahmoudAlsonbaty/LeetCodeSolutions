@@ -6,10 +6,11 @@
       "2026-10-24": 14,
       "2026-10-25": 4,
       "2026-10-26": 8,
-      "2026-10-27": 2
+      "2026-10-27": 2,
+      "2026-10-28": 8
     },
-    "streak": 6,
-    "totalActiveDays": 6,
+    "streak": 7,
+    "totalActiveDays": 7,
     "username": "MahmoudAlsonbaty"
   },
   "questions": {
@@ -129,6 +130,17 @@
       "slug": "count-and-say",
       "tags": [
         "String"
+      ]
+    },
+    "3882": {
+      "acRate": 56.8,
+      "difficulty": "Medium",
+      "slug": "minimum-xor-path-in-a-grid",
+      "tags": [
+        "Array",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Matrix"
       ]
     },
     "3963": {
