@@ -5,25 +5,25 @@ using namespace std;
 class Solution {
 public:
     int minCost(vector<vector<int>>& grid) {
-        vector<vector<vector<int>>> Paths;
+        vector<vector<unordered_set<int>>> Paths;
         for(int i = 0;i<grid.size();i++){
-            Paths.push_back(vector<vector<int>>());
+            Paths.push_back(vector<unordered_set<int>>());
             for(int j = 0;j<grid[i].size();j++){
                 if(i ==0 && j ==0){
-                    Paths[i].push_back(vector<int>());
-                    Paths[i][j].push_back(grid[i][j]);
+                    Paths[i].push_back(unordered_set<int>());
+                    Paths[i][j].insert(grid[i][j]);
                     continue;
                 } 
-                Paths[i].push_back(vector<int>());
+                Paths[i].push_back(unordered_set<int>());
 
                 if(i>0){
                     for(auto t:Paths[i-1][j]){
-                        Paths[i][j].push_back(grid[i][j] ^ t);
+                        Paths[i][j].insert(grid[i][j] ^ t);
                     }
                 }
                 if(j>0){
                     for(auto t:Paths[i][j-1]){
-                        Paths[i][j].push_back(grid[i][j] ^ t);
+                        Paths[i][j].insert(grid[i][j] ^ t);
                     }
                 }
                 
