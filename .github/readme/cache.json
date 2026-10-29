@@ -93,6 +93,15 @@
         "String"
       ]
     },
+    "2778": {
+      "acRate": 87.0,
+      "difficulty": "Easy",
+      "slug": "sum-of-squares-of-special-elements",
+      "tags": [
+        "Array",
+        "Enumeration"
+      ]
+    },
     "3": {
       "acRate": 40.0,
       "difficulty": "Medium",
@@ -157,6 +166,16 @@
         "Array",
         "Math",
         "Matrix"
+      ]
+    },
+    "560": {
+      "acRate": 48.4,
+      "difficulty": "Medium",
+      "slug": "subarray-sum-equals-k",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
       ]
     }
   },
