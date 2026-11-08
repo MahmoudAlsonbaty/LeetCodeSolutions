@@ -14,7 +14,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/assets/stats-dark.svg">
-  <img src="./.github/readme/assets/stats-light.svg" alt="17 problems solved" width="720">
+  <img src="./.github/readme/assets/stats-light.svg" alt="18 problems solved" width="720">
 </picture>
 </p>
 <p align="center">
@@ -34,15 +34,15 @@
 
 | | Problem | Difficulty | Pushed |
 |:-:|---|:-:|:-:|
+| ✅ | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 08, 2026 |
 | ✅ | [2778. Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | $\color{#00b8a3}{\textsf{Easy}}$ | Oct 29, 2026 |
 | ✅ | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | $\color{#ffc01e}{\textsf{Medium}}$ | Oct 29, 2026 |
 | ✅ | [3882. Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | $\color{#ffc01e}{\textsf{Medium}}$ | Oct 28, 2026 |
 | ✅ | [3963. Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | $\color{#00b8a3}{\textsf{Easy}}$ | Oct 27, 2026 |
-| ✅ | [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | $\color{#ffc01e}{\textsf{Medium}}$ | Oct 27, 2026 |
 
 ## Problem List
 
-<sub>17 solved &nbsp;·&nbsp; 7 Easy &nbsp;·&nbsp; 9 Medium &nbsp;·&nbsp; 1 Hard</sub>
+<sub>18 solved &nbsp;·&nbsp; 7 Easy &nbsp;·&nbsp; 10 Medium &nbsp;·&nbsp; 1 Hard</sub>
 
 | Status | Title | Acceptance | Difficulty | Solution |
 |:-:|---|:-:|:-:|:-:|
@@ -54,6 +54,7 @@
 | ✅ | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 60.8% | $\color{#ff375f}{\textsf{Hard}}$ | [C++](./Problems/P23%20-%20Merge%20k%20Sorted%20Lists%20-%20Hard) |
 | ✅ | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 64.1% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P38%20-%20Count%20and%20Say%20-%20Medium) |
 | ✅ | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 80.9% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P48%20-%20Rotate%20Image%20-%20Medium) |
+| ✅ | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 69.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P107%20-%20Binary%20Tree%20Level%20Order%20Traversal%20II%20-%20Medium) |
 | ✅ | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | 51.8% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P326%20-%20Power%20of%20Three%20-%20Easy) |
 | ✅ | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 48.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P560%20-%20Subarray%20Sum%20Equals%20K%20-%20Medium) |
 | ✅ | [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | 67.7% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P2075%20-%20Decode%20the%20Slanted%20Ciphertext%20-%20Medium) |

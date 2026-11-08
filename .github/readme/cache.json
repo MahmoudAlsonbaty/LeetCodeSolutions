@@ -11,10 +11,11 @@
       "2026-10-29": 8,
       "2026-10-30": 2,
       "2026-11-05": 12,
-      "2026-11-07": 1
+      "2026-11-07": 1,
+      "2026-11-08": 1
     },
     "streak": 9,
-    "totalActiveDays": 11,
+    "totalActiveDays": 12,
     "username": "MahmoudAlsonbaty"
   },
   "questions": {
@@ -25,6 +26,16 @@
       "tags": [
         "Array",
         "Hash Table"
+      ]
+    },
+    "107": {
+      "acRate": 69.4,
+      "difficulty": "Medium",
+      "slug": "binary-tree-level-order-traversal-ii",
+      "tags": [
+        "Tree",
+        "Breadth-First Search",
+        "Binary Tree"
       ]
     },
     "13": {
@@ -184,9 +195,9 @@
     }
   },
   "totals": {
-    "All": 4105,
+    "All": 4109,
     "Easy": 975,
-    "Hard": 988,
-    "Medium": 2142
+    "Hard": 989,
+    "Medium": 2145
   }
 }
