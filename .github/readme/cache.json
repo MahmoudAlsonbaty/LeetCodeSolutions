@@ -12,10 +12,11 @@
       "2026-10-30": 2,
       "2026-11-05": 12,
       "2026-11-07": 1,
-      "2026-11-08": 1
+      "2026-11-08": 1,
+      "2026-11-09": 2
     },
     "streak": 9,
-    "totalActiveDays": 12,
+    "totalActiveDays": 13,
     "username": "MahmoudAlsonbaty"
   },
   "questions": {
@@ -38,6 +39,24 @@
         "Binary Tree"
       ]
     },
+    "121": {
+      "acRate": 57.6,
+      "difficulty": "Easy",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "tags": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    "125": {
+      "acRate": 54.6,
+      "difficulty": "Easy",
+      "slug": "valid-palindrome",
+      "tags": [
+        "Two Pointers",
+        "String"
+      ]
+    },
     "13": {
       "acRate": 67.3,
       "difficulty": "Easy",
@@ -56,6 +75,50 @@
         "Array",
         "String",
         "Trie"
+      ]
+    },
+    "141": {
+      "acRate": 55.3,
+      "difficulty": "Easy",
+      "slug": "linked-list-cycle",
+      "tags": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers",
+        "Floyd's Cycle Finding Algorithm"
+      ]
+    },
+    "1483": {
+      "acRate": 40.1,
+      "difficulty": "Hard",
+      "slug": "kth-ancestor-of-a-tree-node",
+      "tags": [
+        "Binary Search",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Design",
+        "Binary Lifting"
+      ]
+    },
+    "1662": {
+      "acRate": 86.3,
+      "difficulty": "Easy",
+      "slug": "check-if-two-string-arrays-are-equivalent",
+      "tags": [
+        "Array",
+        "String"
+      ]
+    },
+    "1991": {
+      "acRate": 70.9,
+      "difficulty": "Easy",
+      "slug": "find-the-middle-index-in-array",
+      "tags": [
+        "Array",
+        "Prefix Sum"
       ]
     },
     "2": {
@@ -97,6 +160,16 @@
         "Heap (Priority Queue)",
         "Merge Sort",
         "Tournament Sort"
+      ]
+    },
+    "231": {
+      "acRate": 50.7,
+      "difficulty": "Easy",
+      "slug": "power-of-two",
+      "tags": [
+        "Math",
+        "Bit Manipulation",
+        "Recursion"
       ]
     },
     "2409": {
@@ -191,6 +264,15 @@
         "Array",
         "Hash Table",
         "Prefix Sum"
+      ]
+    },
+    "643": {
+      "acRate": 49.5,
+      "difficulty": "Easy",
+      "slug": "maximum-average-subarray-i",
+      "tags": [
+        "Array",
+        "Sliding Window"
       ]
     }
   },

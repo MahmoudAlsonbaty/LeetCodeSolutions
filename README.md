@@ -14,7 +14,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/assets/stats-dark.svg">
-  <img src="./.github/readme/assets/stats-light.svg" alt="18 problems solved" width="720">
+  <img src="./.github/readme/assets/stats-light.svg" alt="26 problems solved" width="720">
 </picture>
 </p>
 <p align="center">
@@ -34,15 +34,15 @@
 
 | | Problem | Difficulty | Pushed |
 |:-:|---|:-:|:-:|
-| ✅ | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 08, 2026 |
-| ✅ | [2778. Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | $\color{#00b8a3}{\textsf{Easy}}$ | Oct 29, 2026 |
-| ✅ | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | $\color{#ffc01e}{\textsf{Medium}}$ | Oct 29, 2026 |
-| ✅ | [3882. Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | $\color{#ffc01e}{\textsf{Medium}}$ | Oct 28, 2026 |
-| ✅ | [3963. Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | $\color{#00b8a3}{\textsf{Easy}}$ | Oct 27, 2026 |
+| ✅ | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 10, 2026 |
+| ✅ | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 10, 2026 |
+| ✅ | [1483. Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | $\color{#ff375f}{\textsf{Hard}}$ | Nov 10, 2026 |
+| ✅ | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 10, 2026 |
+| ✅ | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 10, 2026 |
 
 ## Problem List
 
-<sub>18 solved &nbsp;·&nbsp; 7 Easy &nbsp;·&nbsp; 10 Medium &nbsp;·&nbsp; 1 Hard</sub>
+<sub>26 solved &nbsp;·&nbsp; 14 Easy &nbsp;·&nbsp; 10 Medium &nbsp;·&nbsp; 2 Hard</sub>
 
 | Status | Title | Acceptance | Difficulty | Solution |
 |:-:|---|:-:|:-:|:-:|
@@ -55,8 +55,16 @@
 | ✅ | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 64.1% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P38%20-%20Count%20and%20Say%20-%20Medium) |
 | ✅ | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 80.9% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P48%20-%20Rotate%20Image%20-%20Medium) |
 | ✅ | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 69.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P107%20-%20Binary%20Tree%20Level%20Order%20Traversal%20II%20-%20Medium) |
+| ✅ | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 57.6% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20-%20Easy) |
+| ✅ | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 54.6% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P125%20-%20Valid%20Palindrome%20-%20Easy) |
+| ✅ | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 55.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P141%20-%20Linked%20List%20Cycle%20-%20Easy) |
+| ✅ | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | 50.7% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P231%20-%20Power%20of%20Two%20-%20Easy) |
 | ✅ | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | 51.8% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P326%20-%20Power%20of%20Three%20-%20Easy) |
 | ✅ | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 48.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P560%20-%20Subarray%20Sum%20Equals%20K%20-%20Medium) |
+| ✅ | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 49.5% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P643%20-%20Maximum%20Average%20Subarray%20I%20-%20Easy) |
+| ✅ | [1483. Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | 40.1% | $\color{#ff375f}{\textsf{Hard}}$ | [C++](./Problems/P1483%20-%20Kth%20Ancestor%20of%20a%20Tree%20Node%20-%20Hard) |
+| ✅ | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | 86.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P1662%20-%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent%20-%20Easy) |
+| ✅ | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | 70.9% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P1991%20-%20Find%20the%20Middle%20Index%20in%20Array%20-%20Easy) |
 | ✅ | [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | 67.7% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P2075%20-%20Decode%20the%20Slanted%20Ciphertext%20-%20Medium) |
 | ✅ | [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | 68.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P2279%20-%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks%20-%20Medium) |
 | ✅ | [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 66.9% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P2409%20-%20Count%20Days%20Spent%20Together%20-%20Easy) |
