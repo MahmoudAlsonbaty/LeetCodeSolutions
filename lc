@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+# macOS / Linux launcher: runs lc.py from the repo root, wherever you call it from.
+exec python3 "$(dirname "$0")/lc.py" "$@"

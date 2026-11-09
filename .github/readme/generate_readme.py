@@ -4,6 +4,8 @@
 The folder names are the single source of truth:
     Problems/P1 - Two Sum - Easy        -> a solved problem
     Contests/Biweekly Contest 194       -> a contest (its P1, P2... are contest-local)
+    Problems/AT-P1 - Two Sum - Easy     -> an attempt: ignored entirely (not counted,
+                                           not validated, never fails the build)
 
 Everything between <!-- STATS:START --> and <!-- STATS:END --> in README.md,
 and every file in .github/readme/assets/, is regenerated on each run.
@@ -37,6 +39,8 @@ ASSETS_URL = "./" + ASSETS.relative_to(ROOT).as_posix()
 
 PROBLEM_RE = re.compile(r"^P(\d+) - (.+) - (Easy|Medium|Hard)$")
 CONTEST_RE = re.compile(r"^(Weekly|Biweekly) Contest (\d+)$")
+# Folders starting with this are unfinished attempts. Keep in sync with lc.py.
+ATTEMPT_PREFIX = "AT-"
 MARKER_RE = re.compile(r"(<!-- STATS:START -->)(.*?)(<!-- STATS:END -->)", re.DOTALL)
 
 DIFFICULTIES = ("Easy", "Medium", "Hard")
@@ -204,7 +208,8 @@ def scan() -> tuple[list[Problem], list[Contest]]:
     def subfolders(parent: Path) -> list[Path]:
         if not parent.is_dir():
             return []
-        return sorted(p for p in parent.iterdir() if p.is_dir() and not p.name.startswith("."))
+        return sorted(p for p in parent.iterdir()
+                      if p.is_dir() and not p.name.startswith((".", ATTEMPT_PREFIX)))
 
     for path in subfolders(PROBLEMS_DIR):
         rel = path.relative_to(ROOT).as_posix()

@@ -7,6 +7,9 @@ on:
       - "README.md"
       - ".github/readme/assets/**"
       - ".github/readme/cache.json"
+      # Attempts (AT- prefix) are not solutions, so pushing only those does nothing.
+      - "Problems/AT-*/**"
+      - "Contests/*/AT-*/**"
   workflow_dispatch:
   schedule:
     # Daily, shortly after midnight Cairo time (21:17 UTC), so the activity
