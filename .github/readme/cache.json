@@ -13,10 +13,11 @@
       "2026-11-05": 12,
       "2026-11-07": 1,
       "2026-11-08": 1,
-      "2026-11-09": 2
+      "2026-11-09": 5,
+      "2026-11-10": 4
     },
     "streak": 9,
-    "totalActiveDays": 13,
+    "totalActiveDays": 14,
     "username": "MahmoudAlsonbaty"
   },
   "questions": {
@@ -27,6 +28,17 @@
       "tags": [
         "Array",
         "Hash Table"
+      ]
+    },
+    "101": {
+      "acRate": 62.3,
+      "difficulty": "Easy",
+      "slug": "symmetric-tree",
+      "tags": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
       ]
     },
     "107": {
@@ -88,6 +100,17 @@
         "Floyd's Cycle Finding Algorithm"
       ]
     },
+    "143": {
+      "acRate": 66.6,
+      "difficulty": "Medium",
+      "slug": "reorder-list",
+      "tags": [
+        "Linked List",
+        "Two Pointers",
+        "Stack",
+        "Recursion"
+      ]
+    },
     "1483": {
       "acRate": 40.1,
       "difficulty": "Hard",
@@ -140,6 +163,15 @@
         "Simulation"
       ]
     },
+    "21": {
+      "acRate": 69.1,
+      "difficulty": "Easy",
+      "slug": "merge-two-sorted-lists",
+      "tags": [
+        "Linked List",
+        "Recursion"
+      ]
+    },
     "2279": {
       "acRate": 68.4,
       "difficulty": "Medium",
@@ -170,6 +202,26 @@
         "Math",
         "Bit Manipulation",
         "Recursion"
+      ]
+    },
+    "232": {
+      "acRate": 70.3,
+      "difficulty": "Easy",
+      "slug": "implement-queue-using-stacks",
+      "tags": [
+        "Stack",
+        "Design",
+        "Queue"
+      ]
+    },
+    "2390": {
+      "acRate": 80.1,
+      "difficulty": "Medium",
+      "slug": "removing-stars-from-a-string",
+      "tags": [
+        "String",
+        "Stack",
+        "Simulation"
       ]
     },
     "2409": {
