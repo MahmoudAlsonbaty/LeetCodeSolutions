@@ -14,7 +14,7 @@
       "2026-11-07": 1,
       "2026-11-08": 1,
       "2026-11-09": 5,
-      "2026-11-10": 4
+      "2026-11-10": 5
     },
     "streak": 9,
     "totalActiveDays": 14,
@@ -170,6 +170,18 @@
       "tags": [
         "Linked List",
         "Recursion"
+      ]
+    },
+    "215": {
+      "acRate": 69.5,
+      "difficulty": "Medium",
+      "slug": "kth-largest-element-in-an-array",
+      "tags": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
       ]
     },
     "2279": {

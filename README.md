@@ -14,7 +14,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/assets/stats-dark.svg">
-  <img src="./.github/readme/assets/stats-light.svg" alt="31 problems solved" width="720">
+  <img src="./.github/readme/assets/stats-light.svg" alt="32 problems solved" width="720">
 </picture>
 </p>
 <p align="center">
@@ -42,7 +42,7 @@
 
 ## Problem List
 
-<sub>31 solved &nbsp;·&nbsp; 17 Easy &nbsp;·&nbsp; 12 Medium &nbsp;·&nbsp; 2 Hard</sub>
+<sub>32 solved &nbsp;·&nbsp; 17 Easy &nbsp;·&nbsp; 13 Medium &nbsp;·&nbsp; 2 Hard</sub>
 
 | Status | Title | Acceptance | Difficulty | Solution |
 |:-:|---|:-:|:-:|:-:|
@@ -61,6 +61,7 @@
 | ✅ | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 54.6% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P125%20-%20Valid%20Palindrome%20-%20Easy) |
 | ✅ | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 55.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P141%20-%20Linked%20List%20Cycle%20-%20Easy) |
 | ✅ | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | 66.6% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P143%20-%20Reorder%20List%20-%20Medium) |
+| ✅ | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 69.5% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P215%20-%20Kth%20Largest%20Element%20in%20an%20Array%20-%20Medium) |
 | ✅ | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | 50.7% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P231%20-%20Power%20of%20Two%20-%20Easy) |
 | ✅ | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 70.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P232%20-%20Implement%20Queue%20using%20Stacks%20-%20Easy) |
 | ✅ | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | 51.8% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P326%20-%20Power%20of%20Three%20-%20Easy) |
