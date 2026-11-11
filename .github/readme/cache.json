@@ -14,10 +14,11 @@
       "2026-11-07": 1,
       "2026-11-08": 1,
       "2026-11-09": 5,
-      "2026-11-10": 5
+      "2026-11-10": 5,
+      "2026-11-11": 1
     },
     "streak": 9,
-    "totalActiveDays": 14,
+    "totalActiveDays": 15,
     "username": "MahmoudAlsonbaty"
   },
   "questions": {
@@ -341,9 +342,9 @@
     }
   },
   "totals": {
-    "All": 4109,
+    "All": 4110,
     "Easy": 975,
     "Hard": 989,
-    "Medium": 2145
+    "Medium": 2146
   }
 }
