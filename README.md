@@ -14,7 +14,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/assets/stats-dark.svg">
-  <img src="./.github/readme/assets/stats-light.svg" alt="32 problems solved" width="720">
+  <img src="./.github/readme/assets/stats-light.svg" alt="35 problems solved" width="720">
 </picture>
 </p>
 <p align="center">
@@ -34,15 +34,15 @@
 
 | | Problem | Difficulty | Pushed |
 |:-:|---|:-:|:-:|
+| ✅ | [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 11, 2026 |
+| ✅ | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 11, 2026 |
+| ✅ | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 11, 2026 |
 | ✅ | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 10, 2026 |
 | ✅ | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 10, 2026 |
-| ✅ | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 10, 2026 |
-| ✅ | [1483. Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | $\color{#ff375f}{\textsf{Hard}}$ | Nov 10, 2026 |
-| ✅ | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 10, 2026 |
 
 ## Problem List
 
-<sub>32 solved &nbsp;·&nbsp; 17 Easy &nbsp;·&nbsp; 13 Medium &nbsp;·&nbsp; 2 Hard</sub>
+<sub>35 solved &nbsp;·&nbsp; 20 Easy &nbsp;·&nbsp; 13 Medium &nbsp;·&nbsp; 2 Hard</sub>
 
 | Status | Title | Acceptance | Difficulty | Solution |
 |:-:|---|:-:|:-:|:-:|
@@ -62,11 +62,14 @@
 | ✅ | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 55.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P141%20-%20Linked%20List%20Cycle%20-%20Easy) |
 | ✅ | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | 66.6% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P143%20-%20Reorder%20List%20-%20Medium) |
 | ✅ | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 69.5% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P215%20-%20Kth%20Largest%20Element%20in%20an%20Array%20-%20Medium) |
+| ✅ | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 70.5% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P225%20-%20Implement%20Stack%20using%20Queues%20-%20Easy) |
 | ✅ | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | 50.7% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P231%20-%20Power%20of%20Two%20-%20Easy) |
 | ✅ | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 70.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P232%20-%20Implement%20Queue%20using%20Stacks%20-%20Easy) |
 | ✅ | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | 51.8% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P326%20-%20Power%20of%20Three%20-%20Easy) |
+| ✅ | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 77.0% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P496%20-%20Next%20Greater%20Element%20I%20-%20Easy) |
 | ✅ | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 48.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P560%20-%20Subarray%20Sum%20Equals%20K%20-%20Medium) |
 | ✅ | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 49.5% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P643%20-%20Maximum%20Average%20Subarray%20I%20-%20Easy) |
+| ✅ | [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | 53.9% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P1360%20-%20Number%20of%20Days%20Between%20Two%20Dates%20-%20Easy) |
 | ✅ | [1483. Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | 40.1% | $\color{#ff375f}{\textsf{Hard}}$ | [C++](./Problems/P1483%20-%20Kth%20Ancestor%20of%20a%20Tree%20Node%20-%20Hard) |
 | ✅ | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | 86.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P1662%20-%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent%20-%20Easy) |
 | ✅ | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | 70.9% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P1991%20-%20Find%20the%20Middle%20Index%20in%20Array%20-%20Easy) |

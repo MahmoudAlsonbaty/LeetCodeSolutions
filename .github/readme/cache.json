@@ -15,7 +15,7 @@
       "2026-11-08": 1,
       "2026-11-09": 5,
       "2026-11-10": 5,
-      "2026-11-11": 1
+      "2026-11-11": 7
     },
     "streak": 9,
     "totalActiveDays": 15,
@@ -76,6 +76,15 @@
       "slug": "roman-to-integer",
       "tags": [
         "Hash Table",
+        "Math",
+        "String"
+      ]
+    },
+    "1360": {
+      "acRate": 53.9,
+      "difficulty": "Easy",
+      "slug": "number-of-days-between-two-dates",
+      "tags": [
         "Math",
         "String"
       ]
@@ -183,6 +192,16 @@
         "Sorting",
         "Heap (Priority Queue)",
         "Quickselect"
+      ]
+    },
+    "225": {
+      "acRate": 70.5,
+      "difficulty": "Easy",
+      "slug": "implement-stack-using-queues",
+      "tags": [
+        "Stack",
+        "Design",
+        "Queue"
       ]
     },
     "2279": {
@@ -319,6 +338,17 @@
         "Array",
         "Math",
         "Matrix"
+      ]
+    },
+    "496": {
+      "acRate": 77.0,
+      "difficulty": "Easy",
+      "slug": "next-greater-element-i",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Stack",
+        "Monotonic Stack"
       ]
     },
     "560": {
