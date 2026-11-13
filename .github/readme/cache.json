@@ -16,10 +16,11 @@
       "2026-11-09": 5,
       "2026-11-10": 5,
       "2026-11-11": 7,
-      "2026-11-12": 11
+      "2026-11-12": 11,
+      "2026-11-13": 9
     },
     "streak": 9,
-    "totalActiveDays": 16,
+    "totalActiveDays": 17,
     "username": "MahmoudAlsonbaty"
   },
   "questions": {
@@ -111,6 +112,17 @@
         "Floyd's Cycle Finding Algorithm"
       ]
     },
+    "142": {
+      "acRate": 59.6,
+      "difficulty": "Medium",
+      "slug": "linked-list-cycle-ii",
+      "tags": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers",
+        "Floyd's Cycle Finding Algorithm"
+      ]
+    },
     "143": {
       "acRate": 66.6,
       "difficulty": "Medium",
@@ -144,6 +156,15 @@
       "tags": [
         "Array",
         "String"
+      ]
+    },
+    "19": {
+      "acRate": 53.0,
+      "difficulty": "Medium",
+      "slug": "remove-nth-node-from-end-of-list",
+      "tags": [
+        "Linked List",
+        "Two Pointers"
       ]
     },
     "1991": {
@@ -247,6 +268,28 @@
         "Queue"
       ]
     },
+    "238": {
+      "acRate": 69.4,
+      "difficulty": "Medium",
+      "slug": "product-of-array-except-self",
+      "tags": [
+        "Array",
+        "Prefix Sum"
+      ]
+    },
+    "239": {
+      "acRate": 49.4,
+      "difficulty": "Hard",
+      "slug": "sliding-window-maximum",
+      "tags": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue",
+        "Range Minimum/Maximum Query"
+      ]
+    },
     "2390": {
       "acRate": 80.1,
       "difficulty": "Medium",
@@ -331,6 +374,15 @@
       "slug": "create-grid-with-exactly-one-path",
       "tags": []
     },
+    "41": {
+      "acRate": 44.1,
+      "difficulty": "Hard",
+      "slug": "first-missing-positive",
+      "tags": [
+        "Array",
+        "Hash Table"
+      ]
+    },
     "48": {
       "acRate": 80.9,
       "difficulty": "Medium",
@@ -362,6 +414,17 @@
         "Prefix Sum"
       ]
     },
+    "622": {
+      "acRate": 55.9,
+      "difficulty": "Medium",
+      "slug": "design-circular-queue",
+      "tags": [
+        "Array",
+        "Linked List",
+        "Design",
+        "Queue"
+      ]
+    },
     "643": {
       "acRate": 49.5,
       "difficulty": "Easy",
@@ -369,6 +432,21 @@
       "tags": [
         "Array",
         "Sliding Window"
+      ]
+    },
+    "973": {
+      "acRate": 69.5,
+      "difficulty": "Medium",
+      "slug": "k-closest-points-to-origin",
+      "tags": [
+        "Array",
+        "Math",
+        "Divide and Conquer",
+        "Geometry",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect",
+        "K-D Tree"
       ]
     }
   },

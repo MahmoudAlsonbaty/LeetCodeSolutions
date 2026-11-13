@@ -14,7 +14,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/assets/stats-dark.svg">
-  <img src="./.github/readme/assets/stats-light.svg" alt="35 problems solved" width="720">
+  <img src="./.github/readme/assets/stats-light.svg" alt="42 problems solved" width="720">
 </picture>
 </p>
 <p align="center">
@@ -34,15 +34,15 @@
 
 | | Problem | Difficulty | Pushed |
 |:-:|---|:-:|:-:|
-| ✅ | [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 11, 2026 |
-| ✅ | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 11, 2026 |
-| ✅ | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 11, 2026 |
-| ✅ | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 10, 2026 |
-| ✅ | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 10, 2026 |
+| ✅ | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 13, 2026 |
+| ✅ | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 13, 2026 |
+| ✅ | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | $\color{#ff375f}{\textsf{Hard}}$ | Nov 13, 2026 |
+| ✅ | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 13, 2026 |
+| ✅ | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 13, 2026 |
 
 ## Problem List
 
-<sub>35 solved &nbsp;·&nbsp; 20 Easy &nbsp;·&nbsp; 13 Medium &nbsp;·&nbsp; 2 Hard</sub>
+<sub>42 solved &nbsp;·&nbsp; 20 Easy &nbsp;·&nbsp; 18 Medium &nbsp;·&nbsp; 4 Hard</sub>
 
 | Status | Title | Acceptance | Difficulty | Solution |
 |:-:|---|:-:|:-:|:-:|
@@ -51,24 +51,31 @@
 | ✅ | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 40.0% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P3%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Medium) |
 | ✅ | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 67.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P13%20-%20Roman%20to%20Integer%20-%20Easy) |
 | ✅ | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 48.6% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P14%20-%20Longest%20Common%20Prefix%20-%20Easy) |
+| ✅ | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 53.0% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P19%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Medium) |
 | ✅ | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 69.1% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P21%20-%20Merge%20Two%20Sorted%20Lists%20-%20Easy) |
 | ✅ | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 60.8% | $\color{#ff375f}{\textsf{Hard}}$ | [C++](./Problems/P23%20-%20Merge%20k%20Sorted%20Lists%20-%20Hard) |
 | ✅ | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 64.1% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P38%20-%20Count%20and%20Say%20-%20Medium) |
+| ✅ | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 44.1% | $\color{#ff375f}{\textsf{Hard}}$ | [C++](./Problems/P41%20-%20First%20Missing%20Positive%20-%20Hard) |
 | ✅ | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 80.9% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P48%20-%20Rotate%20Image%20-%20Medium) |
 | ✅ | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | 62.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P101%20-%20Symmetric%20Tree%20-%20Easy) |
 | ✅ | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 69.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P107%20-%20Binary%20Tree%20Level%20Order%20Traversal%20II%20-%20Medium) |
 | ✅ | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 57.6% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20-%20Easy) |
 | ✅ | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 54.6% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P125%20-%20Valid%20Palindrome%20-%20Easy) |
 | ✅ | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 55.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P141%20-%20Linked%20List%20Cycle%20-%20Easy) |
+| ✅ | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 59.6% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P142%20-%20Linked%20List%20Cycle%20II%20-%20Medium) |
 | ✅ | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | 66.6% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P143%20-%20Reorder%20List%20-%20Medium) |
 | ✅ | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 69.5% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P215%20-%20Kth%20Largest%20Element%20in%20an%20Array%20-%20Medium) |
 | ✅ | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 70.5% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P225%20-%20Implement%20Stack%20using%20Queues%20-%20Easy) |
 | ✅ | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | 50.7% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P231%20-%20Power%20of%20Two%20-%20Easy) |
 | ✅ | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 70.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P232%20-%20Implement%20Queue%20using%20Stacks%20-%20Easy) |
+| ✅ | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 69.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P238%20-%20Product%20of%20Array%20Except%20Self%20-%20Medium) |
+| ✅ | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 49.4% | $\color{#ff375f}{\textsf{Hard}}$ | [C++](./Problems/P239%20-%20Sliding%20Window%20Maximum%20-%20Hard) |
 | ✅ | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | 51.8% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P326%20-%20Power%20of%20Three%20-%20Easy) |
 | ✅ | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 77.0% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P496%20-%20Next%20Greater%20Element%20I%20-%20Easy) |
 | ✅ | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 48.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P560%20-%20Subarray%20Sum%20Equals%20K%20-%20Medium) |
+| ✅ | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | 55.9% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P622%20-%20Design%20Circular%20Queue%20-%20Medium) |
 | ✅ | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 49.5% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P643%20-%20Maximum%20Average%20Subarray%20I%20-%20Easy) |
+| ✅ | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 69.5% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P973%20-%20K%20Closest%20Points%20to%20Origin%20-%20Medium) |
 | ✅ | [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | 53.9% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P1360%20-%20Number%20of%20Days%20Between%20Two%20Dates%20-%20Easy) |
 | ✅ | [1483. Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | 40.1% | $\color{#ff375f}{\textsf{Hard}}$ | [C++](./Problems/P1483%20-%20Kth%20Ancestor%20of%20a%20Tree%20Node%20-%20Hard) |
 | ✅ | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | 86.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P1662%20-%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent%20-%20Easy) |
