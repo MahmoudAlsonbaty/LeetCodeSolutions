@@ -15,6 +15,9 @@ int main(){
     //         cout<< answer[i][j];
     //     }
     // }
+    // for(int i = 0;i<answer.size();i++){
+    //     cout<< answer[i] << " ";
+    // }
     std::cout << answer <<endl;
     return 0;
 }
