@@ -14,7 +14,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/assets/stats-dark.svg">
-  <img src="./.github/readme/assets/stats-light.svg" alt="42 problems solved" width="720">
+  <img src="./.github/readme/assets/stats-light.svg" alt="43 problems solved" width="720">
 </picture>
 </p>
 <p align="center">
@@ -34,15 +34,15 @@
 
 | | Problem | Difficulty | Pushed |
 |:-:|---|:-:|:-:|
+| ✅ | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 15, 2026 |
 | ✅ | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 13, 2026 |
 | ✅ | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 13, 2026 |
 | ✅ | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | $\color{#ff375f}{\textsf{Hard}}$ | Nov 13, 2026 |
 | ✅ | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 13, 2026 |
-| ✅ | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 13, 2026 |
 
 ## Problem List
 
-<sub>42 solved &nbsp;·&nbsp; 20 Easy &nbsp;·&nbsp; 18 Medium &nbsp;·&nbsp; 4 Hard</sub>
+<sub>43 solved &nbsp;·&nbsp; 20 Easy &nbsp;·&nbsp; 19 Medium &nbsp;·&nbsp; 4 Hard</sub>
 
 | Status | Title | Acceptance | Difficulty | Solution |
 |:-:|---|:-:|:-:|:-:|
@@ -57,6 +57,7 @@
 | ✅ | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 64.1% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P38%20-%20Count%20and%20Say%20-%20Medium) |
 | ✅ | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 44.1% | $\color{#ff375f}{\textsf{Hard}}$ | [C++](./Problems/P41%20-%20First%20Missing%20Positive%20-%20Hard) |
 | ✅ | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 80.9% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P48%20-%20Rotate%20Image%20-%20Medium) |
+| ✅ | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 36.6% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P98%20-%20Validate%20Binary%20Search%20Tree%20-%20Medium) |
 | ✅ | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | 62.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P101%20-%20Symmetric%20Tree%20-%20Easy) |
 | ✅ | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 69.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P107%20-%20Binary%20Tree%20Level%20Order%20Traversal%20II%20-%20Medium) |
 | ✅ | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 57.6% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20-%20Easy) |

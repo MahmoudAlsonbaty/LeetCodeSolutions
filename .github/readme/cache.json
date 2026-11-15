@@ -18,10 +18,11 @@
       "2026-11-11": 7,
       "2026-11-12": 11,
       "2026-11-13": 11,
-      "2026-11-14": 4
+      "2026-11-14": 4,
+      "2026-11-15": 7
     },
     "streak": 9,
-    "totalActiveDays": 18,
+    "totalActiveDays": 19,
     "username": "MahmoudAlsonbaty"
   },
   "questions": {
@@ -449,12 +450,23 @@
         "Quickselect",
         "K-D Tree"
       ]
+    },
+    "98": {
+      "acRate": 36.6,
+      "difficulty": "Medium",
+      "slug": "validate-binary-search-tree",
+      "tags": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Search Tree",
+        "Binary Tree"
+      ]
     }
   },
   "totals": {
-    "All": 4110,
-    "Easy": 975,
-    "Hard": 989,
-    "Medium": 2146
+    "All": 4114,
+    "Easy": 976,
+    "Hard": 990,
+    "Medium": 2148
   }
 }
