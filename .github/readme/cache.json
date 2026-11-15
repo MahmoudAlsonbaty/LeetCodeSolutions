@@ -19,7 +19,7 @@
       "2026-11-12": 11,
       "2026-11-13": 11,
       "2026-11-14": 4,
-      "2026-11-15": 7
+      "2026-11-15": 11
     },
     "streak": 9,
     "totalActiveDays": 19,
@@ -93,6 +93,19 @@
         "String"
       ]
     },
+    "1373": {
+      "acRate": 49.2,
+      "difficulty": "Hard",
+      "slug": "maximum-sum-bst-in-binary-tree",
+      "tags": [
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search",
+        "Binary Search Tree",
+        "Binary Tree",
+        "DP on Trees"
+      ]
+    },
     "14": {
       "acRate": 48.6,
       "difficulty": "Easy",
@@ -149,6 +162,18 @@
         "Breadth-First Search",
         "Design",
         "Binary Lifting"
+      ]
+    },
+    "1559": {
+      "acRate": 63.7,
+      "difficulty": "Medium",
+      "slug": "detect-cycles-in-2d-grid",
+      "tags": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
       ]
     },
     "1662": {
