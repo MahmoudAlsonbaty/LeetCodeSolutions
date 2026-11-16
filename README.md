@@ -14,7 +14,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/assets/stats-dark.svg">
-  <img src="./.github/readme/assets/stats-light.svg" alt="42 problems solved" width="720">
+  <img src="./.github/readme/assets/stats-light.svg" alt="45 problems solved" width="720">
 </picture>
 </p>
 <p align="center">
@@ -34,15 +34,15 @@
 
 | | Problem | Difficulty | Pushed |
 |:-:|---|:-:|:-:|
+| ✅ | [1559. Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 15, 2026 |
+| ✅ | [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | $\color{#ff375f}{\textsf{Hard}}$ | Nov 15, 2026 |
+| ✅ | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 15, 2026 |
 | ✅ | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 13, 2026 |
 | ✅ | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 13, 2026 |
-| ✅ | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | $\color{#ff375f}{\textsf{Hard}}$ | Nov 13, 2026 |
-| ✅ | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 13, 2026 |
-| ✅ | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 13, 2026 |
 
 ## Problem List
 
-<sub>42 solved &nbsp;·&nbsp; 20 Easy &nbsp;·&nbsp; 18 Medium &nbsp;·&nbsp; 4 Hard</sub>
+<sub>45 solved &nbsp;·&nbsp; 20 Easy &nbsp;·&nbsp; 20 Medium &nbsp;·&nbsp; 5 Hard</sub>
 
 | Status | Title | Acceptance | Difficulty | Solution |
 |:-:|---|:-:|:-:|:-:|
@@ -57,6 +57,7 @@
 | ✅ | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 64.1% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P38%20-%20Count%20and%20Say%20-%20Medium) |
 | ✅ | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 44.1% | $\color{#ff375f}{\textsf{Hard}}$ | [C++](./Problems/P41%20-%20First%20Missing%20Positive%20-%20Hard) |
 | ✅ | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 80.9% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P48%20-%20Rotate%20Image%20-%20Medium) |
+| ✅ | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 36.6% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P98%20-%20Validate%20Binary%20Search%20Tree%20-%20Medium) |
 | ✅ | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | 62.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P101%20-%20Symmetric%20Tree%20-%20Easy) |
 | ✅ | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 69.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P107%20-%20Binary%20Tree%20Level%20Order%20Traversal%20II%20-%20Medium) |
 | ✅ | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 57.6% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20-%20Easy) |
@@ -77,7 +78,9 @@
 | ✅ | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 49.5% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P643%20-%20Maximum%20Average%20Subarray%20I%20-%20Easy) |
 | ✅ | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 69.5% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P973%20-%20K%20Closest%20Points%20to%20Origin%20-%20Medium) |
 | ✅ | [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | 53.9% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P1360%20-%20Number%20of%20Days%20Between%20Two%20Dates%20-%20Easy) |
+| ✅ | [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | 49.2% | $\color{#ff375f}{\textsf{Hard}}$ | [C++](./Problems/P1373%20-%20Maximum%20Sum%20BST%20in%20Binary%20Tree%20-%20Hard) |
 | ✅ | [1483. Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | 40.1% | $\color{#ff375f}{\textsf{Hard}}$ | [C++](./Problems/P1483%20-%20Kth%20Ancestor%20of%20a%20Tree%20Node%20-%20Hard) |
+| ✅ | [1559. Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | 63.7% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P1559%20-%20Detect%20Cycles%20in%202D%20Grid%20-%20Medium) |
 | ✅ | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | 86.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P1662%20-%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent%20-%20Easy) |
 | ✅ | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | 70.9% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P1991%20-%20Find%20the%20Middle%20Index%20in%20Array%20-%20Easy) |
 | ✅ | [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | 67.7% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P2075%20-%20Decode%20the%20Slanted%20Ciphertext%20-%20Medium) |
