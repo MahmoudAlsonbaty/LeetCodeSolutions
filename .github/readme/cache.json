@@ -20,10 +20,11 @@
       "2026-11-13": 11,
       "2026-11-14": 4,
       "2026-11-15": 11,
-      "2026-11-16": 2
+      "2026-11-16": 2,
+      "2026-11-17": 1
     },
-    "streak": 10,
-    "totalActiveDays": 20,
+    "streak": 11,
+    "totalActiveDays": 21,
     "username": "MahmoudAlsonbaty"
   },
   "questions": {
@@ -43,6 +44,16 @@
       "tags": [
         "Tree",
         "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "102": {
+      "acRate": 73.8,
+      "difficulty": "Medium",
+      "slug": "binary-tree-level-order-traversal",
+      "tags": [
+        "Tree",
         "Breadth-First Search",
         "Binary Tree"
       ]
@@ -490,9 +501,9 @@
     }
   },
   "totals": {
-    "All": 4114,
+    "All": 4115,
     "Easy": 976,
-    "Hard": 990,
+    "Hard": 991,
     "Medium": 2148
   }
 }
