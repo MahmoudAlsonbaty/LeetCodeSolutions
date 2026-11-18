@@ -14,7 +14,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/assets/stats-dark.svg">
-  <img src="./.github/readme/assets/stats-light.svg" alt="46 problems solved" width="720">
+  <img src="./.github/readme/assets/stats-light.svg" alt="47 problems solved" width="720">
 </picture>
 </p>
 <p align="center">
@@ -34,15 +34,15 @@
 
 | | Problem | Difficulty | Pushed |
 |:-:|---|:-:|:-:|
+| ✅ | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 18, 2026 |
 | ✅ | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 17, 2026 |
 | ✅ | [1559. Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 15, 2026 |
 | ✅ | [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | $\color{#ff375f}{\textsf{Hard}}$ | Nov 15, 2026 |
 | ✅ | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 15, 2026 |
-| ✅ | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 13, 2026 |
 
 ## Problem List
 
-<sub>46 solved &nbsp;·&nbsp; 20 Easy &nbsp;·&nbsp; 21 Medium &nbsp;·&nbsp; 5 Hard</sub>
+<sub>47 solved &nbsp;·&nbsp; 21 Easy &nbsp;·&nbsp; 21 Medium &nbsp;·&nbsp; 5 Hard</sub>
 
 | Status | Title | Acceptance | Difficulty | Solution |
 |:-:|---|:-:|:-:|:-:|
@@ -60,6 +60,7 @@
 | ✅ | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 36.6% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P98%20-%20Validate%20Binary%20Search%20Tree%20-%20Medium) |
 | ✅ | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | 62.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P101%20-%20Symmetric%20Tree%20-%20Easy) |
 | ✅ | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 73.8% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P102%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Medium) |
+| ✅ | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 78.8% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P104%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Easy) |
 | ✅ | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 69.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P107%20-%20Binary%20Tree%20Level%20Order%20Traversal%20II%20-%20Medium) |
 | ✅ | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 57.6% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20-%20Easy) |
 | ✅ | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 54.6% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P125%20-%20Valid%20Palindrome%20-%20Easy) |

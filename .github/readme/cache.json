@@ -21,10 +21,11 @@
       "2026-11-14": 4,
       "2026-11-15": 11,
       "2026-11-16": 2,
-      "2026-11-17": 1
+      "2026-11-17": 1,
+      "2026-11-18": 1
     },
-    "streak": 11,
-    "totalActiveDays": 21,
+    "streak": 12,
+    "totalActiveDays": 22,
     "username": "MahmoudAlsonbaty"
   },
   "questions": {
@@ -54,6 +55,17 @@
       "slug": "binary-tree-level-order-traversal",
       "tags": [
         "Tree",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "104": {
+      "acRate": 78.8,
+      "difficulty": "Easy",
+      "slug": "maximum-depth-of-binary-tree",
+      "tags": [
+        "Tree",
+        "Depth-First Search",
         "Breadth-First Search",
         "Binary Tree"
       ]
