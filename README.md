@@ -14,7 +14,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/assets/stats-dark.svg">
-  <img src="./.github/readme/assets/stats-light.svg" alt="47 problems solved" width="720">
+  <img src="./.github/readme/assets/stats-light.svg" alt="52 problems solved" width="720">
 </picture>
 </p>
 <p align="center">
@@ -34,21 +34,22 @@
 
 | | Problem | Difficulty | Pushed |
 |:-:|---|:-:|:-:|
+| ✅ | [2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 19, 2026 |
+| ✅ | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 19, 2026 |
 | ✅ | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 18, 2026 |
 | ✅ | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 17, 2026 |
 | ✅ | [1559. Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 15, 2026 |
-| ✅ | [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | $\color{#ff375f}{\textsf{Hard}}$ | Nov 15, 2026 |
-| ✅ | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 15, 2026 |
 
 ## Problem List
 
-<sub>47 solved &nbsp;·&nbsp; 21 Easy &nbsp;·&nbsp; 21 Medium &nbsp;·&nbsp; 5 Hard</sub>
+<sub>52 solved &nbsp;·&nbsp; 24 Easy &nbsp;·&nbsp; 23 Medium &nbsp;·&nbsp; 5 Hard</sub>
 
 | Status | Title | Acceptance | Difficulty | Solution |
 |:-:|---|:-:|:-:|:-:|
 | ✅ | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 58.1% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P1%20-%20Two%20Sum%20-%20Easy) |
 | ✅ | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 49.6% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P2%20-%20Add%20Two%20Numbers%20-%20Medium) |
 | ✅ | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 40.0% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P3%20-%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20Medium) |
+| ✅ | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 61.1% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P11%20-%20Container%20With%20Most%20Water%20-%20Medium) |
 | ✅ | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 67.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P13%20-%20Roman%20to%20Integer%20-%20Easy) |
 | ✅ | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 48.6% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P14%20-%20Longest%20Common%20Prefix%20-%20Easy) |
 | ✅ | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 53.0% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P19%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20-%20Medium) |
@@ -57,7 +58,9 @@
 | ✅ | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 64.1% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P38%20-%20Count%20and%20Say%20-%20Medium) |
 | ✅ | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 44.1% | $\color{#ff375f}{\textsf{Hard}}$ | [C++](./Problems/P41%20-%20First%20Missing%20Positive%20-%20Hard) |
 | ✅ | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 80.9% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P48%20-%20Rotate%20Image%20-%20Medium) |
+| ✅ | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 80.8% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P94%20-%20Binary%20Tree%20Inorder%20Traversal%20-%20Easy) |
 | ✅ | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 36.6% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P98%20-%20Validate%20Binary%20Search%20Tree%20-%20Medium) |
+| ✅ | [100. Same Tree](https://leetcode.com/problems/same-tree/) | 68.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P100%20-%20Same%20Tree%20-%20Easy) |
 | ✅ | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | 62.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P101%20-%20Symmetric%20Tree%20-%20Easy) |
 | ✅ | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 73.8% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P102%20-%20Binary%20Tree%20Level%20Order%20Traversal%20-%20Medium) |
 | ✅ | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 78.8% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P104%20-%20Maximum%20Depth%20of%20Binary%20Tree%20-%20Easy) |
@@ -71,6 +74,7 @@
 | ✅ | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 70.5% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P225%20-%20Implement%20Stack%20using%20Queues%20-%20Easy) |
 | ✅ | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | 50.7% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P231%20-%20Power%20of%20Two%20-%20Easy) |
 | ✅ | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 70.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P232%20-%20Implement%20Queue%20using%20Stacks%20-%20Easy) |
+| ✅ | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 70.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P236%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20-%20Medium) |
 | ✅ | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 69.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P238%20-%20Product%20of%20Array%20Except%20Self%20-%20Medium) |
 | ✅ | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 49.4% | $\color{#ff375f}{\textsf{Hard}}$ | [C++](./Problems/P239%20-%20Sliding%20Window%20Maximum%20-%20Hard) |
 | ✅ | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | 51.8% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P326%20-%20Power%20of%20Three%20-%20Easy) |
@@ -86,6 +90,7 @@
 | ✅ | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | 86.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P1662%20-%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent%20-%20Easy) |
 | ✅ | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | 70.9% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P1991%20-%20Find%20the%20Middle%20Index%20in%20Array%20-%20Easy) |
 | ✅ | [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | 67.7% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P2075%20-%20Decode%20the%20Slanted%20Ciphertext%20-%20Medium) |
+| ✅ | [2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | 77.6% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P2243%20-%20Calculate%20Digit%20Sum%20of%20a%20String%20-%20Easy) |
 | ✅ | [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | 68.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P2279%20-%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks%20-%20Medium) |
 | ✅ | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | 80.1% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P2390%20-%20Removing%20Stars%20From%20a%20String%20-%20Medium) |
 | ✅ | [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 66.9% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P2409%20-%20Count%20Days%20Spent%20Together%20-%20Easy) |
@@ -98,6 +103,7 @@
 
 | Contest | Solved | Pushed | Solutions |
 |---|:-:|:-:|:-:|
+| 🏆 Weekly Contest 528 | 0 | Nov 19, 2026 | [View](./Contests/Weekly%20Contest%20528) |
 | 🏆 Biweekly Contest 194 | 2 | Oct 26, 2026 | [View](./Contests/Biweekly%20Contest%20194) |
 
 <sub>Contest problems are listed separately and are not counted in the totals above.</sub>
