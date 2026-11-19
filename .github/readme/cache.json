@@ -19,10 +19,13 @@
       "2026-11-12": 11,
       "2026-11-13": 11,
       "2026-11-14": 4,
-      "2026-11-15": 11
+      "2026-11-15": 11,
+      "2026-11-16": 2,
+      "2026-11-17": 1,
+      "2026-11-18": 1
     },
-    "streak": 9,
-    "totalActiveDays": 19,
+    "streak": 12,
+    "totalActiveDays": 22,
     "username": "MahmoudAlsonbaty"
   },
   "questions": {
@@ -39,6 +42,27 @@
       "acRate": 62.3,
       "difficulty": "Easy",
       "slug": "symmetric-tree",
+      "tags": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "102": {
+      "acRate": 73.8,
+      "difficulty": "Medium",
+      "slug": "binary-tree-level-order-traversal",
+      "tags": [
+        "Tree",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "104": {
+      "acRate": 78.8,
+      "difficulty": "Easy",
+      "slug": "maximum-depth-of-binary-tree",
       "tags": [
         "Tree",
         "Depth-First Search",
@@ -489,9 +513,9 @@
     }
   },
   "totals": {
-    "All": 4114,
+    "All": 4115,
     "Easy": 976,
-    "Hard": 990,
+    "Hard": 991,
     "Medium": 2148
   }
 }
