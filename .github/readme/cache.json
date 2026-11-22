@@ -104,6 +104,15 @@
         "Greedy"
       ]
     },
+    "1207": {
+      "acRate": 79.0,
+      "difficulty": "Easy",
+      "slug": "unique-number-of-occurrences",
+      "tags": [
+        "Array",
+        "Hash Table"
+      ]
+    },
     "121": {
       "acRate": 57.6,
       "difficulty": "Easy",
@@ -120,6 +129,18 @@
       "tags": [
         "Two Pointers",
         "String"
+      ]
+    },
+    "1254": {
+      "acRate": 70.6,
+      "difficulty": "Medium",
+      "slug": "number-of-closed-islands",
+      "tags": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
       ]
     },
     "13": {
@@ -261,6 +282,18 @@
         "Recursion"
       ]
     },
+    "200": {
+      "acRate": 65.4,
+      "difficulty": "Medium",
+      "slug": "number-of-islands",
+      "tags": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ]
+    },
     "2075": {
       "acRate": 67.7,
       "difficulty": "Medium",
@@ -289,6 +322,26 @@
         "Sorting",
         "Heap (Priority Queue)",
         "Quickselect"
+      ]
+    },
+    "217": {
+      "acRate": 64.9,
+      "difficulty": "Easy",
+      "slug": "contains-duplicate",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ]
+    },
+    "219": {
+      "acRate": 52.2,
+      "difficulty": "Easy",
+      "slug": "contains-duplicate-ii",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
       ]
     },
     "2243": {
@@ -405,6 +458,39 @@
         "String"
       ]
     },
+    "242": {
+      "acRate": 68.8,
+      "difficulty": "Easy",
+      "slug": "valid-anagram",
+      "tags": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    "2567": {
+      "acRate": 67.1,
+      "difficulty": "Medium",
+      "slug": "minimum-score-by-changing-two-elements",
+      "tags": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    "268": {
+      "acRate": 73.0,
+      "difficulty": "Easy",
+      "slug": "missing-number",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
+      ]
+    },
     "2778": {
       "acRate": 87.0,
       "difficulty": "Easy",
@@ -424,6 +510,16 @@
         "Sliding Window"
       ]
     },
+    "3041": {
+      "acRate": 62.0,
+      "difficulty": "Hard",
+      "slug": "maximize-consecutive-elements-in-an-array-after-modification",
+      "tags": [
+        "Array",
+        "Dynamic Programming",
+        "Sorting"
+      ]
+    },
     "326": {
       "acRate": 51.8,
       "difficulty": "Easy",
@@ -431,6 +527,21 @@
       "tags": [
         "Math",
         "Recursion"
+      ]
+    },
+    "347": {
+      "acRate": 67.7,
+      "difficulty": "Medium",
+      "slug": "top-k-frequent-elements",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
       ]
     },
     "3619": {
@@ -479,6 +590,17 @@
         "Hash Table"
       ]
     },
+    "463": {
+      "acRate": 74.5,
+      "difficulty": "Easy",
+      "slug": "island-perimeter",
+      "tags": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ]
+    },
     "48": {
       "acRate": 80.9,
       "difficulty": "Medium",
@@ -487,6 +609,17 @@
         "Array",
         "Math",
         "Matrix"
+      ]
+    },
+    "49": {
+      "acRate": 73.5,
+      "difficulty": "Medium",
+      "slug": "group-anagrams",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
       ]
     },
     "496": {
@@ -530,6 +663,17 @@
         "Sliding Window"
       ]
     },
+    "846": {
+      "acRate": 58.5,
+      "difficulty": "Medium",
+      "slug": "hand-of-straights",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Sorting"
+      ]
+    },
     "94": {
       "acRate": 80.8,
       "difficulty": "Easy",
@@ -566,12 +710,22 @@
         "Binary Search Tree",
         "Binary Tree"
       ]
+    },
+    "994": {
+      "acRate": 59.7,
+      "difficulty": "Medium",
+      "slug": "rotting-oranges",
+      "tags": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ]
     }
   },
   "totals": {
-    "All": 4119,
-    "Easy": 977,
-    "Hard": 992,
-    "Medium": 2150
+    "All": 4123,
+    "Easy": 978,
+    "Hard": 993,
+    "Medium": 2152
   }
 }
