@@ -43,7 +43,7 @@ template <typename T> void cout2DVector(vector<vector<T>> *answer) {
   for (size_t i = 0; i < answer->size(); i++) {
     cout << endl;
     for (size_t j = 0; j < (*answer)[i].size(); j++) {
-      cout << (*answer)[i][j];
+      cout << (*answer)[i][j] << ", ";
     }
   }
 }
@@ -52,3 +52,10 @@ template <typename T> void coutVector(vector<T> *answer) {
     cout << (*answer)[i] << ", ";
   }
 }
+template <typename T> void coutBool(T *answer) {
+  if(*answer == 0){
+    cout << "False" <<endl;
+  }else{
+    cout << "True" <<endl;
+  } 
+} 

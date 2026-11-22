@@ -13,6 +13,7 @@ int main(){
     
     // cout2DVector(&answer);   // vector<vector<T>>
     // coutVector(&answer);     // vector<T>
-    std::cout << answer <<endl;
+    // coutBool(&answer); //True or False
+    // std::cout << answer <<endl;
     return 0;
 }
