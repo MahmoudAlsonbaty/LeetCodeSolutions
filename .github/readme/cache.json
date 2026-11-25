@@ -256,6 +256,17 @@
         "String"
       ]
     },
+    "179": {
+      "acRate": 44.1,
+      "difficulty": "Medium",
+      "slug": "largest-number",
+      "tags": [
+        "Array",
+        "String",
+        "Greedy",
+        "Sorting"
+      ]
+    },
     "19": {
       "acRate": 53.0,
       "difficulty": "Medium",
@@ -312,6 +323,14 @@
       "tags": [
         "Linked List",
         "Recursion"
+      ]
+    },
+    "2124": {
+      "acRate": 78.4,
+      "difficulty": "Easy",
+      "slug": "check-if-all-as-appears-before-all-bs",
+      "tags": [
+        "String"
       ]
     },
     "215": {
@@ -663,6 +682,18 @@
       "tags": [
         "Array",
         "Sliding Window"
+      ]
+    },
+    "75": {
+      "acRate": 70.3,
+      "difficulty": "Medium",
+      "slug": "sort-colors",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting",
+        "Quicksort",
+        "Bubble Sort"
       ]
     },
     "846": {

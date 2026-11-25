@@ -14,7 +14,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/assets/stats-dark.svg">
-  <img src="./.github/readme/assets/stats-light.svg" alt="66 problems solved" width="720">
+  <img src="./.github/readme/assets/stats-light.svg" alt="69 problems solved" width="720">
 </picture>
 </p>
 <p align="center">
@@ -34,15 +34,15 @@
 
 | | Problem | Difficulty | Pushed |
 |:-:|---|:-:|:-:|
+| ✅ | [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 25, 2026 |
+| ✅ | [179. Largest Number](https://leetcode.com/problems/largest-number/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 25, 2026 |
+| ✅ | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 25, 2026 |
 | ✅ | [3041. Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | $\color{#ff375f}{\textsf{Hard}}$ | Nov 22, 2026 |
 | ✅ | [2567. Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 22, 2026 |
-| ✅ | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 22, 2026 |
-| ✅ | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | $\color{#00b8a3}{\textsf{Easy}}$ | Nov 22, 2026 |
-| ✅ | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | $\color{#ffc01e}{\textsf{Medium}}$ | Nov 22, 2026 |
 
 ## Problem List
 
-<sub>66 solved &nbsp;·&nbsp; 30 Easy &nbsp;·&nbsp; 30 Medium &nbsp;·&nbsp; 6 Hard</sub>
+<sub>69 solved &nbsp;·&nbsp; 31 Easy &nbsp;·&nbsp; 32 Medium &nbsp;·&nbsp; 6 Hard</sub>
 
 | Status | Title | Acceptance | Difficulty | Solution |
 |:-:|---|:-:|:-:|:-:|
@@ -59,6 +59,7 @@
 | ✅ | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 44.1% | $\color{#ff375f}{\textsf{Hard}}$ | [C++](./Problems/P41%20-%20First%20Missing%20Positive%20-%20Hard) |
 | ✅ | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 80.9% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P48%20-%20Rotate%20Image%20-%20Medium) |
 | ✅ | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 73.5% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P49%20-%20Group%20Anagrams%20-%20Medium) |
+| ✅ | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 70.3% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P75%20-%20Sort%20Colors%20-%20Medium) |
 | ✅ | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 80.8% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P94%20-%20Binary%20Tree%20Inorder%20Traversal%20-%20Easy) |
 | ✅ | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 36.6% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P98%20-%20Validate%20Binary%20Search%20Tree%20-%20Medium) |
 | ✅ | [100. Same Tree](https://leetcode.com/problems/same-tree/) | 68.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P100%20-%20Same%20Tree%20-%20Easy) |
@@ -71,6 +72,7 @@
 | ✅ | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 55.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P141%20-%20Linked%20List%20Cycle%20-%20Easy) |
 | ✅ | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 59.6% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P142%20-%20Linked%20List%20Cycle%20II%20-%20Medium) |
 | ✅ | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | 66.6% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P143%20-%20Reorder%20List%20-%20Medium) |
+| ✅ | [179. Largest Number](https://leetcode.com/problems/largest-number/) | 44.1% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P179%20-%20Largest%20Number%20-%20Medium) |
 | ✅ | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 65.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P200%20-%20Number%20of%20Islands%20-%20Medium) |
 | ✅ | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 69.5% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P215%20-%20Kth%20Largest%20Element%20in%20an%20Array%20-%20Medium) |
 | ✅ | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 64.9% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P217%20-%20Contains%20Duplicate%20-%20Easy) |
@@ -102,6 +104,7 @@
 | ✅ | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | 86.3% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P1662%20-%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent%20-%20Easy) |
 | ✅ | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | 70.9% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P1991%20-%20Find%20the%20Middle%20Index%20in%20Array%20-%20Easy) |
 | ✅ | [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | 67.7% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P2075%20-%20Decode%20the%20Slanted%20Ciphertext%20-%20Medium) |
+| ✅ | [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | 78.4% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P2124%20-%20Check%20if%20All%20A%27s%20Appears%20Before%20All%20B%27s%20-%20Easy) |
 | ✅ | [2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | 77.6% | $\color{#00b8a3}{\textsf{Easy}}$ | [C++](./Problems/P2243%20-%20Calculate%20Digit%20Sum%20of%20a%20String%20-%20Easy) |
 | ✅ | [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | 68.4% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P2279%20-%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks%20-%20Medium) |
 | ✅ | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | 80.1% | $\color{#ffc01e}{\textsf{Medium}}$ | [C++](./Problems/P2390%20-%20Removing%20Stars%20From%20a%20String%20-%20Medium) |
