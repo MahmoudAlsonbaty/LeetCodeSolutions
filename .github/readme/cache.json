@@ -29,7 +29,7 @@
       "2026-11-22": 6,
       "2026-11-23": 2,
       "2026-11-26": 1,
-      "2026-11-28": 2
+      "2026-11-28": 9
     },
     "streak": 17,
     "totalActiveDays": 29,
@@ -157,6 +157,18 @@
         "String"
       ]
     },
+    "1352": {
+      "acRate": 66.5,
+      "difficulty": "Medium",
+      "slug": "product-of-the-last-k-numbers",
+      "tags": [
+        "Array",
+        "Math",
+        "Design",
+        "Data Stream",
+        "Prefix Sum"
+      ]
+    },
     "1360": {
       "acRate": 53.9,
       "difficulty": "Easy",
@@ -220,6 +232,28 @@
         "Two Pointers",
         "Stack",
         "Recursion"
+      ]
+    },
+    "144": {
+      "acRate": 77.0,
+      "difficulty": "Easy",
+      "slug": "binary-tree-preorder-traversal",
+      "tags": [
+        "Stack",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    "145": {
+      "acRate": 79.3,
+      "difficulty": "Easy",
+      "slug": "binary-tree-postorder-traversal",
+      "tags": [
+        "Stack",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
       ]
     },
     "1483": {
@@ -523,6 +557,19 @@
         "Enumeration"
       ]
     },
+    "287": {
+      "acRate": 65.1,
+      "difficulty": "Medium",
+      "slug": "find-the-duplicate-number",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Bit Manipulation",
+        "Pigeonhole Principle",
+        "Floyd's Cycle Finding Algorithm"
+      ]
+    },
     "3": {
       "acRate": 40.0,
       "difficulty": "Medium",
@@ -550,6 +597,15 @@
       "tags": [
         "Math",
         "Recursion"
+      ]
+    },
+    "3360": {
+      "acRate": 56.0,
+      "difficulty": "Easy",
+      "slug": "stone-removal-game",
+      "tags": [
+        "Math",
+        "Simulation"
       ]
     },
     "347": {
@@ -686,6 +742,15 @@
         "Sliding Window"
       ]
     },
+    "66": {
+      "acRate": 50.9,
+      "difficulty": "Easy",
+      "slug": "plus-one",
+      "tags": [
+        "Array",
+        "Math"
+      ]
+    },
     "75": {
       "acRate": 70.3,
       "difficulty": "Medium",
@@ -709,6 +774,18 @@
         "Sorting"
       ]
     },
+    "918": {
+      "acRate": 52.0,
+      "difficulty": "Medium",
+      "slug": "maximum-sum-circular-subarray",
+      "tags": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming",
+        "Queue",
+        "Monotonic Queue"
+      ]
+    },
     "94": {
       "acRate": 80.8,
       "difficulty": "Easy",
@@ -718,6 +795,16 @@
         "Tree",
         "Depth-First Search",
         "Binary Tree"
+      ]
+    },
+    "953": {
+      "acRate": 56.2,
+      "difficulty": "Easy",
+      "slug": "verifying-an-alien-dictionary",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "String"
       ]
     },
     "973": {
